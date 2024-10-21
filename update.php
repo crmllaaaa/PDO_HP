@@ -1,4 +1,4 @@
-<?php require_once 'core/dbConfg.php'; ?>
+<?php require_once 'core/dbConfig.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
